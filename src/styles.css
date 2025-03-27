@@ -1,0 +1,117 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~@marcreichel/angular-carousel/css/main.css";
+
+@import "~@marcreichel/angular-carousel/themes/dots.css";
+
+
+.wrapper  {
+  overflow-y:  scroll !important;
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face
+{
+    font-family:'Museo Sans 500';
+    src:url('./assets/fonts/MuseoSans_500.otf') format("opentype");; 
+}
+
+
+
+.form_img img {
+  width: 100% !important;
+}
+
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Museo Sans 500', 'arial', sans-serif;
+}
+
+
+
+
+.logo  {
+    float: right;
+ }
+ 
+ 
+ @media screen and (max-width: 600px) {
+     .logo {
+     display: none;
+     }
+   }
+
+
+
+
+   a > p:hover {
+    text-decoration: none; 
+    color : none ;
+
+   }
+
+
+   p {
+    font-family: 'Museo Sans 500' !important;
+   }
+
+   .form_items .label-content  {
+    min-width: 250px !important;
+   }
+
+
+
+   
+#hero {
+  display : flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+
+
+
+
+
+
+
+
+
+.hidden {
+  display : hidden !important
+}
+
+
+
+
+.carousel__previous button,
+.carousel__next button {
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  width: 2rem !important;
+  height: 2rem !important;
+  padding: 0 !important;
+  background-color: rgb(23,33,38) !important;
+  border-radius: 100% !important;
+
+
+}
+
+.carousel__previous svg,
+.carousel__next svg {
+  width: 1rem !important;
+  height: 1rem !important;
+  color : white !important;
+  margin : auto !important;
+
+}
