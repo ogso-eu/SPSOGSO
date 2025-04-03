@@ -113,7 +113,7 @@
       ski_style: ['fun-surf'],
       riding_speed: ['moderate-speed'],
       turn : ['short'],
-      src : 'assets/images/ski/LE TOUNO.png',
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/LE TOUNO.png',
       link : 'https://ogso-mountain-essentials.com/shop/beeline-camber/ogso-le-touno-scurry-odyssey/'  //      link : 'https://ogso-mountain-essentials.com/product/cosmique-90-sr/'
 
   
@@ -134,7 +134,7 @@
       ski_style: ['fun-surf'],
       riding_speed: ['moderate-speed'],
       turn : ['short'],
-      src : 'assets/images/ski/LE TOUNO.png',    //src : 'https://ogso-mountain-essentials.com/app/ski-photos/COSMIQUE.png',
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/LE TOUNO.png',   //src : 'https://ogso-mountain-essentials.com/app/ski-photos/COSMIQUE.png',
       link : 'https://ogso-mountain-essentials.com/shop/beeline-camber/ogso-le-touno-scurry-odyssey/'  // link : 'https://ogso-mountain-essentials.com/product/cosmique-90-sr/'
   
   
@@ -156,7 +156,7 @@
       ski_style: ['fun-surf'],
       riding_speed: ['moderate-speed'],
       turn : ['short'],
-      src : 'assets/images/ski/LE TOUNO.png',  //src : 'https://ogso-mountain-essentials.com/app/ski-photos/COSMIQUE.png',
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/LE TOUNO.png',  //src : 'https://ogso-mountain-essentials.com/app/ski-photos/COSMIQUE.png',
       link : 'https://ogso-mountain-essentials.com/shop/beeline-camber/ogso-le-touno-scurry-odyssey/' // link : 'https://ogso-mountain-essentials.com/product/cosmique-90-sr/'
   
   
@@ -611,7 +611,7 @@
       ski_style: ['fun-surf'],
       riding_speed: ['moderate-speed'],
       turn : ['short'],
-      src : 'assets/images/ski/GRIZZLY.png',   //src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/GRIZZLY.png',   //src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png",
       link :'https://ogso-mountain-essentials.com/shop/exalted-camber/ogso-grizzly-solid-tour/' ,  //link : 'https://ogso-mountain-essentials.com/product/diable-100-sr-ml/',
       //award : 'https://ogso-mountain-essentials.com/app/ski-photos/awards/g-s.png'
   
@@ -632,7 +632,7 @@
       ski_style: ['fun-surf'],
       riding_speed: ['moderate-speed'],
       turn : ['short'],
-      src : 'assets/images/ski/GRIZZLY.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/GRIZZLY.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png",
       link :'https://ogso-mountain-essentials.com/shop/exalted-camber/ogso-grizzly-solid-tour/' , //  link : 'https://ogso-mountain-essentials.com/product/diable-100-sr-ml/',
      // award : 'https://ogso-mountain-essentials.com/app/ski-photos/awards/g-s.png'
   
@@ -654,7 +654,7 @@
       ski_style: ['fun-surf'],
       riding_speed: ['moderate-speed'],
       turn : ['short'],
-      src : 'assets/images/ski/GRIZZLY.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/GRIZZLY.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png",
       link :'https://ogso-mountain-essentials.com/shop/exalted-camber/ogso-grizzly-solid-tour/' , // link : 'https://ogso-mountain-essentials.com/product/diable-100-sr-ml/',
      // award : 'https://ogso-mountain-essentials.com/app/ski-photos/awards/g-s.png'
   
@@ -676,7 +676,7 @@
       ski_style: ['fun-surf'],
       riding_speed: ['moderate-speed'],
       turn : ['short'],
-      src : 'assets/images/ski/GRIZZLY.png',  // src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/GRIZZLY.png',  // src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png",
       link :'https://ogso-mountain-essentials.com/shop/exalted-camber/ogso-grizzly-solid-tour/' ,  // link : 'https://ogso-mountain-essentials.com/product/diable-100-sr-ml/',
      // award : 'https://ogso-mountain-essentials.com/app/ski-photos/awards/g-s.png'
   
@@ -698,7 +698,7 @@
       ski_style: ['fun-surf'],
       riding_speed: ['moderate-speed'],
       turn : ['short'],
-      src : 'assets/images/ski/GRIZZLY.png',  //src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/GRIZZLY.png',  //src : "https://ogso-mountain-essentials.com/app/ski-photos/DIABLE.png",
       link :'https://ogso-mountain-essentials.com/shop/exalted-camber/ogso-grizzly-solid-tour/' ,   // link : 'https://ogso-mountain-essentials.com/product/diable-100-sr-ml/',
      // award : 'https://ogso-mountain-essentials.com/app/ski-photos/awards/g-s.png'
   
@@ -720,7 +720,7 @@
       ski_style: ['fun-surf'],
       riding_speed: ['moderate-speed'],
       turn : ['short'],
-      src : 'assets/images/ski/BIG.png',    //src : "https://ogso-mountain-essentials.com/app/ski-photos/SPENCER.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/GRIZZLY.png',  //src : "https://ogso-mountain-essentials.com/app/ski-photos/SPENCER.png",
       link :'https://ogso-mountain-essentials.com/shop/exalted-camber/ogso-big-solid-tour/' , //link : 'https://ogso-mountain-essentials.com/product/spencer-110-sr-ml/'
   
   
@@ -740,7 +740,7 @@
       ski_style: ['fun-surf'],
       riding_speed: ['moderate-speed'],
       turn : ['short'],
-      src : 'assets/images/ski/BIG.png',   //src : "https://ogso-mountain-essentials.com/app/ski-photos/SPENCER.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/BIG.png',    //src : "https://ogso-mountain-essentials.com/app/ski-photos/SPENCER.png",
       link :'https://ogso-mountain-essentials.com/shop/exalted-camber/ogso-big-solid-tour/' ,   //link : 'https://ogso-mountain-essentials.com/product/spencer-110-sr-ml/'
   
   
@@ -760,7 +760,7 @@
       ski_style: ['fun-surf'],
       riding_speed: ['moderate-speed'],
       turn : ['short'],
-      src : 'assets/images/ski/BIG.png',    //src : "https://ogso-mountain-essentials.com/app/ski-photos/SPENCER.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/BIG.png',    //src : "https://ogso-mountain-essentials.com/app/ski-photos/SPENCER.png",
       link :'https://ogso-mountain-essentials.com/shop/exalted-camber/ogso-big-solid-tour/'     //link : 'https://ogso-mountain-essentials.com/product/spencer-110-sr-ml/'
   
   
@@ -780,7 +780,7 @@
       ski_style: ['fun-surf'],
       riding_speed: ['moderate-speed'],
       turn : ['short'],
-      src : 'assets/images/ski/BIG.png',  //src : "https://ogso-mountain-essentials.com/app/ski-photos/SPENCER.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/BIG.png',  //src : "https://ogso-mountain-essentials.com/app/ski-photos/SPENCER.png",
       link :'https://ogso-mountain-essentials.com/shop/exalted-camber/ogso-big-solid-tour/'   //link : 'https://ogso-mountain-essentials.com/product/spencer-110-sr-ml/'
   
   
@@ -879,8 +879,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/SWISS.png', // src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png",
-     // link : 'https://ogso-mountain-essentials.com/product/jaeger-80-neo-ul/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/SWISS.png',  // src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png",
+      link : 'https://ogso-mountain-essentials.com/shop/neoteric-camber/swiss/'
   
     },
     {
@@ -899,8 +899,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/SWISS.png',  // src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png",
-      //link : 'https://ogso-mountain-essentials.com/product/jaeger-80-neo-ul/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/SWISS.png',  // src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png",
+      link : 'https://ogso-mountain-essentials.com/shop/neoteric-camber/swiss/'
   
   
     }
@@ -921,8 +921,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/SWISS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png",
-      //link : 'https://ogso-mountain-essentials.com/product/jaeger-80-neo-ul/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/SWISS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png",
+      link : 'https://ogso-mountain-essentials.com/shop/neoteric-camber/swiss/'
   
   
     }
@@ -943,8 +943,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/SWISS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png",
-      //link : 'https://ogso-mountain-essentials.com/product/jaeger-80-neo-ul/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/SWISS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png",
+      link : 'https://ogso-mountain-essentials.com/shop/neoteric-camber/swiss/'
   
   
     }
@@ -965,8 +965,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/SWISS.png', // src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png",
-      //link : 'https://ogso-mountain-essentials.com/product/jaeger-80-neo-ul/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/SWISS.png', // src : "https://ogso-mountain-essentials.com/app/ski-photos/JAEGER.png",
+      link : 'https://ogso-mountain-essentials.com/shop/neoteric-camber/swiss/'
   
   
     },
@@ -986,8 +986,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/STS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png",
-      //link : 'https://ogso-mountain-essentials.com/product/thor-90-neo-ul/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/STS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png",
+      link : 'https://ogso-mountain-essentials.com/shop/neoteric-camber/sts/'
   
   
     },
@@ -1007,8 +1007,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/STS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png",
-      //link : 'https://ogso-mountain-essentials.com/product/thor-90-neo-ul/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/STS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png",
+      link : 'https://ogso-mountain-essentials.com/shop/neoteric-camber/sts/'
   
   
     }
@@ -1029,8 +1029,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/STS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png",
-      //link : 'https://ogso-mountain-essentials.com/product/thor-90-neo-ul/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/STS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png",
+      link : 'https://ogso-mountain-essentials.com/shop/neoteric-camber/sts/'
   
   
     }
@@ -1051,8 +1051,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/STS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png",
-      link : 'https://ogso-mountain-essentials.com/product/thor-90-neo-ul/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/STS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png",
+      link : 'https://ogso-mountain-essentials.com/shop/neoteric-camber/sts/'
   
   
     }
@@ -1073,8 +1073,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/STS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png",
-      //link : 'https://ogso-mountain-essentials.com/product/thor-90-neo-ul/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/STS.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/THOR.png",
+      link : 'https://ogso-mountain-essentials.com/shop/neoteric-camber/sts/'
   
   
     },
@@ -1094,7 +1094,7 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/GRAND_DADDY.png',  //src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/GRAND_DADDY.png',  //src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png",
       link: 'https://ogso-mountain-essentials.com/shop/neoteric-camber/ogso-grand-daddy-ultra-tour/' //link : 'https://ogso-mountain-essentials.com/product/couturier-100-neo-ul/',
       //award : 'https://ogso-mountain-essentials.com/app/ski-photos/awards/b-e.png'
   
@@ -1116,7 +1116,7 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/GRAND_DADDY.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/GRAND_DADDY.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png",
       link: 'https://ogso-mountain-essentials.com/shop/neoteric-camber/ogso-grand-daddy-ultra-tour/'  //link : 'https://ogso-mountain-essentials.com/product/couturier-100-neo-ul/',
       //award : 'https://ogso-mountain-essentials.com/app/ski-photos/awards/b-e.png'
   
@@ -1139,7 +1139,7 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/GRAND_DADDY.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/GRAND_DADDY.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png",
       link: 'https://ogso-mountain-essentials.com/shop/neoteric-camber/ogso-grand-daddy-ultra-tour/', //link : 'https://ogso-mountain-essentials.com/product/couturier-100-neo-ul/',
       //award : 'https://ogso-mountain-essentials.com/app/ski-photos/awards/b-e.png'
   
@@ -1163,7 +1163,7 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/GRAND_DADDY.png',  //src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/GRAND_DADDY.png',  //src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png",
       link: 'https://ogso-mountain-essentials.com/shop/neoteric-camber/ogso-grand-daddy-ultra-tour/', //link : 'https://ogso-mountain-essentials.com/product/couturier-100-neo-ul/',
       //award : 'https://ogso-mountain-essentials.com/app/ski-photos/awards/b-e.png'
   
@@ -1187,7 +1187,7 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/GRAND_DADDY.png',  //src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/GRAND_DADDY.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/COUTURIER.png",
       link: 'https://ogso-mountain-essentials.com/shop/neoteric-camber/ogso-grand-daddy-ultra-tour/', //link : 'https://ogso-mountain-essentials.com/product/couturier-100-neo-ul/',
       //award : 'https://ogso-mountain-essentials.com/app/ski-photos/awards/b-e.png'
   
@@ -1313,8 +1313,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/ANGELIQUE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png",
-      //link : 'https://ogso-mountain-essentials.com/product/danaides-90-neo-ml/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/ANGELIQUE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png",
+      link : 'https://ogso-mountain-essentials.com/shop/utopic-camber/angelique/'
   
     },
     {
@@ -1332,8 +1332,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/ANGELIQUE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png",
-      //link : 'https://ogso-mountain-essentials.com/product/danaides-90-neo-ml/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/ANGELIQUE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png",
+      link : 'https://ogso-mountain-essentials.com/shop/utopic-camber/angelique/'
   
     }
     ,
@@ -1373,8 +1373,8 @@
       ski_style: ['fun-surf'],
       riding_speed: ['high-speed'],
       turn : ['short'],
-      src : 'assets/images/ski/ANGELIQUE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png",
-      //link : 'https://ogso-mountain-essentials.com/product/danaides-90-neo-ml/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/ANGELIQUE.png',//src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png",
+      link : 'https://ogso-mountain-essentials.com/shop/utopic-camber/angelique/'
   
   
     }
@@ -1394,8 +1394,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/ANGELIQUE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png",
-      //link : 'https://ogso-mountain-essentials.com/product/danaides-90-neo-ml/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/ANGELIQUE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png",
+      link : 'https://ogso-mountain-essentials.com/shop/utopic-camber/angelique/'
   
   
     }
@@ -1415,8 +1415,8 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/ANGELIQUE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png",
-      //link : 'https://ogso-mountain-essentials.com/product/danaides-90-neo-ml/'
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/ANGELIQUE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/DANAIDES.png",
+      link : 'https://ogso-mountain-essentials.com/shop/utopic-camber/angelique/'
   
   
     },
@@ -1435,7 +1435,7 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/LA_VOUTE.png',  //src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/LA_VOUTE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png",
       link: 'https://ogso-mountain-essentials.com/shop/utopic-camber/ogso-la-voute-cruise-tour/', //link : 'https://ogso-mountain-essentials.com/product/marinelli-100-neo-ml/'
   
   
@@ -1455,7 +1455,7 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/LA_VOUTE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/LA_VOUTE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png",
       link: 'https://ogso-mountain-essentials.com/shop/utopic-camber/ogso-la-voute-cruise-tour/', //link : 'https://ogso-mountain-essentials.com/product/marinelli-100-neo-ml/'
   
   
@@ -1476,7 +1476,7 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/LA_VOUTE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/LA_VOUTE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png",
       link: 'https://ogso-mountain-essentials.com/shop/utopic-camber/ogso-la-voute-cruise-tour/', //link : 'https://ogso-mountain-essentials.com/product/marinelli-100-neo-ml/'
   
   
@@ -1497,7 +1497,7 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/LA_VOUTE.png',  //src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/LA_VOUTE.png',  //src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png",
       link: 'https://ogso-mountain-essentials.com/shop/utopic-camber/ogso-la-voute-cruise-tour/', //link : 'https://ogso-mountain-essentials.com/product/marinelli-100-neo-ml/'
   
   
@@ -1518,7 +1518,7 @@
       ski_style: ['technical-precision'],
       riding_speed: ['high-speed'],
       turn : ['long'],
-      src : 'assets/images/ski/LA_VOUTE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png",
+      src : 'https://ogso-mountain-essentials.com/app/ski-photos/LA_VOUTE.png', //src : "https://ogso-mountain-essentials.com/app/ski-photos/MARINELLI.png",
       link: 'https://ogso-mountain-essentials.com/shop/utopic-camber/ogso-la-voute-cruise-tour/',  //link : 'https://ogso-mountain-essentials.com/product/marinelli-100-neo-ml/'
   
   
