@@ -1,16 +1,30 @@
 import { initializeApp } from "firebase/app";
 import { getDatabase } from "firebase/database";
 
+// export const environment = {
+//   firebase: {
+//     apiKey: "AIzaSyAa-U_brs9wUX4a_G7x0wl4zru20JcPql8",
+//     authDomain: "how-to-choose-an-ogso-ski.firebaseapp.com",
+//     databaseURL: "https://how-to-choose-an-ogso-ski-default-rtdb.firebaseio.com",
+//     projectId: "how-to-choose-an-ogso-ski",
+//     storageBucket: "how-to-choose-an-ogso-ski.appspot.com",
+//     messagingSenderId: "521463964329",
+//     appId: "1:521463964329:web:d4b68be996f6eab430bfb8",
+//     measurementId: "G-DKEDPXKSQW"
+//   },
+//   production: false,
+//   TAILWIND_MODE: 'build'
+// };
+
 export const environment = {
   firebase: {
-    apiKey: "AIzaSyAa-U_brs9wUX4a_G7x0wl4zru20JcPql8",
-    authDomain: "how-to-choose-an-ogso-ski.firebaseapp.com",
-    databaseURL: "https://how-to-choose-an-ogso-ski-default-rtdb.firebaseio.com",
-    projectId: "how-to-choose-an-ogso-ski",
-    storageBucket: "how-to-choose-an-ogso-ski.appspot.com",
-    messagingSenderId: "521463964329",
-    appId: "1:521463964329:web:d4b68be996f6eab430bfb8",
-    measurementId: "G-DKEDPXKSQW"
+    apiKey: "AIzaSyACOuXVWY7Z2y0kuYbecSS-5JMgu4FEo5k",
+    authDomain: "spsogso.firebaseapp.com",
+    projectId: "spsogso",
+    storageBucket: "spsogso.firebasestorage.app",
+    messagingSenderId: "1087753388152",
+    appId: "1:1087753388152:web:a18e4af11d40a978bc2d8d",
+    measurementId: "G-VWWRV6HCY2"
   },
   production: false,
   TAILWIND_MODE: 'build'
